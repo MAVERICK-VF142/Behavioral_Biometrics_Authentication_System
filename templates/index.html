@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <title>Behavioral Biometrics System</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Login</h1>
+    <form id="loginForm">
+      <input type="text" id="userId" placeholder="User ID" required><br>
+      <input type="password" id="password" placeholder="Password" required><br>
+      <button type="submit">Submit</button>
+    </form>
+    <p id="message"></p>
+  </div>
+
+  <script>
+    let mouseData = [];
+    let keyboardData = [];
+
+    // Capture mouse movements
+    document.addEventListener('mousemove', (event) => {
+      mouseData.push({x: event.clientX, y: event.clientY});
+    });
+
+    // Capture keyboard behavior
+    let keyPressStartTime = null;
+    document.addEventListener('keydown', (event) => {
+      if (keyPressStartTime === null) {
+        keyPressStartTime = Date.now();
+      }
+      keyboardData.push({key: event.key, timestamp: Date.now()});
+    });
+
+    document.addEventListener('keyup', (event) => {
+      if (keyPressStartTime !== null) {
+        const keyHoldTime = Date.now() - keyPressStartTime;
+        keyboardData.push({key: event.key, holdTime: keyHoldTime});
+        keyPressStartTime = null;
+      }
+    });
+
+    // Submit form and send data to backend
+    document.getElementById('loginForm').addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      const userId = document.getElementById('userId').value;
+      const password = document.getElementById('password').value;
+
+      fetch('/login', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          userId: userId,
+          password: password,
+          mouseMovements: mouseData,
+          keyboardBehavior: keyboardData
+        })
+      })
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('message').innerText = data.message;
+      });
+    });
+  </script>
+</body>
+</html>
