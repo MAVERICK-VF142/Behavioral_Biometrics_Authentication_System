@@ -4,10 +4,15 @@ import csv
 import pandas as pd
 import joblib
 import math
+import logging
 from datetime import datetime
 from flask import Flask, request, jsonify, render_template
 
 app = Flask(__name__)
+
+# Set up logging
+logging.basicConfig(filename='app.log', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger()
 
 # Dummy database for demo purposes
 users_db = {
@@ -20,13 +25,15 @@ USER_DATA_DIR = 'data/'
 # Ensure directory exists
 if not os.path.exists(USER_DATA_DIR):
     os.makedirs(USER_DATA_DIR)
+    logger.info(f"Created directory: {USER_DATA_DIR}")
 
 # Store the mouse and keyboard data into CSV
 def save_mouse_data(user_id, mouse_data):
     user_dir = os.path.join(USER_DATA_DIR, user_id)
     if not os.path.exists(user_dir):
         os.makedirs(user_dir)
-    
+        logger.info(f"Created user directory: {user_dir}")
+
     mouse_file = os.path.join(user_dir, f'{user_id}_mouse_data.csv')
     header = ['movement_id', 'startX', 'startY', 'endX', 'endY', 'deltaX', 'deltaY', 'distance', 'duration', 'velocity']
     movement_id = 1
@@ -63,6 +70,7 @@ def save_mouse_data(user_id, mouse_data):
                 })
                 movement_id += 1
             previous_x, previous_y, previous_time = current_x, current_y, current_time
+    logger.info(f"Mouse data saved for user {user_id} in {mouse_file}")
 
 def save_keyboard_data(user_id, keyboard_data):
     user_dir = os.path.join(USER_DATA_DIR, user_id)
@@ -95,6 +103,7 @@ def save_keyboard_data(user_id, keyboard_data):
                 'hold_time': event['holdTime']
             })
             key_id += 1
+    logger.info(f"Keyboard data saved for user {user_id} in {keyboard_file}")
 
 # Function to make predictions using only the newly received data
 def predict_user(user_id, mouse_data, keyboard_data):
@@ -102,6 +111,7 @@ def predict_user(user_id, mouse_data, keyboard_data):
     model_file = os.path.join(user_dir, f'{user_id}_model.pkl')
 
     if not os.path.exists(model_file):
+        logger.warning(f"Model file not found for user {user_id}.")
         return False  # Model not found
 
     clf = joblib.load(model_file)
@@ -130,8 +140,10 @@ def predict_user(user_id, mouse_data, keyboard_data):
     if mouse_features and keyboard_features:
         combined_features = pd.concat([pd.DataFrame(mouse_features), pd.DataFrame(keyboard_features)], axis=1)
         prediction = clf.predict(combined_features)
+        logger.info(f"Prediction result for user {user_id}: {prediction[0]}")
         return prediction[0] == 1  # Assuming "1" is the predicted class for correct user
 
+    logger.warning(f"No valid mouse or keyboard data for prediction for user {user_id}.")
     return False
 
 def verify_face(user_id):
@@ -139,7 +151,7 @@ def verify_face(user_id):
     # Load the reference image of user1 (for face comparison)
     reference_image_path = os.path.join(USER_DATA_DIR, user_id, f'{user_id}_face.jpg')
     if not os.path.exists(reference_image_path):
-        print("Reference face image not found!")
+        logger.error(f"Reference face image not found for {user_id}.")
         return False
     
     # Initialize the OpenCV face detector
@@ -151,6 +163,7 @@ def verify_face(user_id):
     while True:
         ret, frame = cap.read()
         if not ret:
+            logger.error("Failed to capture image from the webcam.")
             break
         
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -174,6 +187,7 @@ def verify_face(user_id):
             if res.max() >= threshold:
                 cap.release()
                 cv2.destroyAllWindows()
+                logger.info(f"Face verification succeeded for {user_id}.")
                 return True  # Face matched successfully
         
         # Show the webcam feed
@@ -185,6 +199,7 @@ def verify_face(user_id):
 
     cap.release()
     cv2.destroyAllWindows()
+    logger.error(f"Face verification failed for {user_id}.")
     return False  # Face verification failed
 
 @app.route('/')
@@ -201,6 +216,7 @@ def login():
 
     # Validate user and password
     if user_id in users_db and users_db[user_id]['password'] == password:
+        logger.info(f"User {user_id} login attempt successful.")
         # Save data
         save_mouse_data(user_id, mouse_movements)
         save_keyboard_data(user_id, keyboard_behavior)
@@ -226,6 +242,7 @@ def login():
             return jsonify({"message": "Login failed: User behavior mismatch."})
 
     else:
+        logger.warning(f"Failed login attempt for user {user_id}. Invalid credentials.")
         return jsonify({"message": "Invalid user ID or password!"})
 
 def retrain_model(user_id):
@@ -234,7 +251,7 @@ def retrain_model(user_id):
     keyboard_file = os.path.join(user_dir, f'{user_id}_keyboard_data.csv')
 
     if not os.path.exists(mouse_file) or not os.path.exists(keyboard_file):
-        print("Insufficient data to train model for user:", user_id)
+        logger.warning(f"Insufficient data to train model for user {user_id}.")
         return
 
     mouse_data = pd.read_csv(mouse_file)[['deltaX', 'deltaY', 'distance', 'duration', 'velocity']]
@@ -250,7 +267,7 @@ def retrain_model(user_id):
 
     model_file = os.path.join(user_dir, f'{user_id}_model.pkl')
     joblib.dump(clf, model_file)
-    print(f"Model trained and saved for {user_id}")
+    logger.info(f"Model trained and saved for {user_id}")
 
 if __name__ == '__main__':
     app.run(debug=True)

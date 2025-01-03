@@ -1,0 +1,735 @@
+2025-01-01 21:54:16,790 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-01 21:54:16,790 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-01 21:54:16,847 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 21:54:19,013 - WARNING -  * Debugger is active!
+2025-01-01 21:54:19,018 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 21:54:19,064 - INFO - 127.0.0.1 - - [01/Jan/2025 21:54:19] "GET / HTTP/1.1" 200 -
+2025-01-01 21:54:19,154 - INFO - 127.0.0.1 - - [01/Jan/2025 21:54:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-01-01 21:56:48,717 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-01 21:56:48,719 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-01 21:56:48,738 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 21:56:50,417 - WARNING -  * Debugger is active!
+2025-01-01 21:56:50,422 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 21:59:04,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-01 21:59:04,939 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-01 21:59:04,956 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 21:59:06,716 - WARNING -  * Debugger is active!
+2025-01-01 21:59:06,721 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 22:00:22,522 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\logging.py', reloading
+2025-01-01 22:00:23,035 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:00:24,162 - WARNING -  * Debugger is active!
+2025-01-01 22:00:24,165 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 22:00:27,695 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:00:27,696 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:00:27,697 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:00:28,327 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:00:29,375 - WARNING -  * Debugger is active!
+2025-01-01 22:00:29,378 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 22:00:35,931 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-01 22:00:35,931 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-01 22:00:35,943 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:00:36,901 - WARNING -  * Debugger is active!
+2025-01-01 22:00:36,904 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 22:24:56,942 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:24:56,954 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:24:56,955 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:24:56,956 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:24:56,958 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:24:57,711 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:25:12,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-01 22:25:12,498 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-01 22:25:12,544 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:25:13,774 - WARNING -  * Debugger is active!
+2025-01-01 22:25:13,778 - INFO -  * Debugger PIN: 139-979-119
+2025-01-01 22:25:20,276 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:25:20,276 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:25:20,277 - INFO -  * Detected change in 'c:\\Users\\ashut\\OneDrive\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-01 22:25:21,027 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-01 22:25:22,386 - WARNING -  * Debugger is active!
+2025-01-01 22:25:22,390 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:31,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 05:47:31,622 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 05:47:31,642 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:33,191 - WARNING -  * Debugger is active!
+2025-01-03 05:47:33,193 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:34,477 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\concurrent\\__init__.py', reloading
+2025-01-03 05:47:34,516 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\idlelib\\__init__.py', reloading
+2025-01-03 05:47:34,524 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\lib2to3\\__init__.py', reloading
+2025-01-03 05:47:34,576 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\msilib\\__init__.py', reloading
+2025-01-03 05:47:34,586 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\test\\__init__.py', reloading
+2025-01-03 05:47:34,594 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\turtledemo\\__init__.py', reloading
+2025-01-03 05:47:34,655 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\wsgiref\\__init__.py', reloading
+2025-01-03 05:47:34,684 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\xml\\__init__.py', reloading
+2025-01-03 05:47:34,764 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\xmlrpc\\__init__.py', reloading
+2025-01-03 05:47:34,772 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\__phello__\\__init__.py', reloading
+2025-01-03 05:47:34,802 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\absl\\__init__.py', reloading
+2025-01-03 05:47:34,883 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\adodbapi\\__init__.py', reloading
+2025-01-03 05:47:34,891 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\aiobotocore\\__init__.py', reloading
+2025-01-03 05:47:34,983 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\aiohttp\\__init__.py', reloading
+2025-01-03 05:47:35,131 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\aiohttp\\client.py', reloading
+2025-01-03 05:47:35,457 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:36,938 - WARNING -  * Debugger is active!
+2025-01-03 05:47:36,940 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:37,005 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\schema\\core.py', reloading
+2025-01-03 05:47:37,120 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\schema\\channels.py', reloading
+2025-01-03 05:47:37,247 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\api.py', reloading
+2025-01-03 05:47:37,379 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\utils\\schemapi.py', reloading
+2025-01-03 05:47:37,405 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\utils\\__init__.py', reloading
+2025-01-03 05:47:37,497 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\utils\\core.py', reloading
+2025-01-03 05:47:37,596 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\data.py', reloading
+2025-01-03 05:47:37,649 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\display.py', reloading
+2025-01-03 05:47:37,680 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\vegalite\\v5\\theme.py', reloading
+2025-01-03 05:47:37,890 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\expr\\__init__.py', reloading
+2025-01-03 05:47:37,923 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\expr\\funcs.py', reloading
+2025-01-03 05:47:37,934 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\altair\\expr\\consts.py', reloading
+2025-01-03 05:47:38,107 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:39,207 - WARNING -  * Debugger is active!
+2025-01-03 05:47:39,209 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:39,275 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_typedattr.py', reloading
+2025-01-03 05:47:39,296 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\apiclient\\__init__.py', reloading
+2025-01-03 05:47:39,303 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\archspec\\__init__.py', reloading
+2025-01-03 05:47:39,363 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\argon2\\__init__.py', reloading
+2025-01-03 05:47:39,400 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\argon2\\_legacy.py', reloading
+2025-01-03 05:47:39,414 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\argon2\\_password_hasher.py', reloading
+2025-01-03 05:47:39,424 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\argon2\\_utils.py', reloading
+2025-01-03 05:47:39,436 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\argon2\\low_level.py', reloading
+2025-01-03 05:47:39,535 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\__init__.py', reloading
+2025-01-03 05:47:39,565 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\_version.py', reloading
+2025-01-03 05:47:39,576 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\api.py', reloading
+2025-01-03 05:47:39,678 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\arrow.py', reloading
+2025-01-03 05:47:39,696 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\factory.py', reloading
+2025-01-03 05:47:39,725 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\formatter.py', reloading
+2025-01-03 05:47:39,769 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\arrow\\parser.py', reloading
+2025-01-03 05:47:39,844 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\astroid\\__init__.py', reloading
+2025-01-03 05:47:40,005 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\astropy\\__init__.py', reloading
+2025-01-03 05:47:40,037 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\astropy_iers_data\\__init__.py', reloading
+2025-01-03 05:47:40,056 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\asttokens\\__init__.py', reloading
+2025-01-03 05:47:40,064 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\astunparse\\__init__.py', reloading
+2025-01-03 05:47:40,087 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\async_lru\\__init__.py', reloading
+2025-01-03 05:47:40,103 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\atomicwrites\\__init__.py', reloading
+2025-01-03 05:47:40,191 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\automat\\__init__.py', reloading
+2025-01-03 05:47:40,377 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:41,578 - WARNING -  * Debugger is active!
+2025-01-03 05:47:41,580 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:41,608 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cookiecutter\\__init__.py', reloading
+2025-01-03 05:47:41,614 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cpuinfo\\__init__.py', reloading
+2025-01-03 05:47:41,644 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cryptography\\__init__.py', reloading
+2025-01-03 05:47:41,654 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cryptography\\__about__.py', reloading
+2025-01-03 05:47:41,664 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cssselect\\__init__.py', reloading
+2025-01-03 05:47:41,679 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cssselect\\parser.py', reloading
+2025-01-03 05:47:41,697 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\cssselect\\xpath.py', reloading
+2025-01-03 05:47:42,162 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\curl\\__init__.py', reloading
+2025-01-03 05:47:42,742 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:43,795 - WARNING -  * Debugger is active!
+2025-01-03 05:47:43,797 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:43,893 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\core.py', reloading
+2025-01-03 05:47:43,920 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\comm\\__init__.py', reloading
+2025-01-03 05:47:43,955 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\comm\\core.py', reloading
+2025-01-03 05:47:43,977 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\__init__.py', reloading
+2025-01-03 05:47:44,011 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\adaptive.py', reloading
+2025-01-03 05:47:44,028 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\local.py', reloading
+2025-01-03 05:47:44,062 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\spec.py', reloading
+2025-01-03 05:47:44,093 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\ssh.py', reloading
+2025-01-03 05:47:44,113 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\deploy\\subprocess.py', reloading
+2025-01-03 05:47:44,134 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\diagnostics\\plugin.py', reloading
+2025-01-03 05:47:44,169 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\diagnostics\\progressbar.py', reloading
+2025-01-03 05:47:44,200 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\event.py', reloading
+2025-01-03 05:47:44,228 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\lock.py', reloading
+2025-01-03 05:47:44,247 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\multi_lock.py', reloading
+2025-01-03 05:47:44,263 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\nanny.py', reloading
+2025-01-03 05:47:44,290 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\pubsub.py', reloading
+2025-01-03 05:47:44,315 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\queues.py', reloading
+2025-01-03 05:47:44,356 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\scheduler.py', reloading
+2025-01-03 05:47:44,483 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\security.py', reloading
+2025-01-03 05:47:44,507 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\semaphore.py', reloading
+2025-01-03 05:47:44,549 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\distributed\\spans.py', reloading
+2025-01-03 05:47:44,962 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:46,100 - WARNING -  * Debugger is active!
+2025-01-03 05:47:46,102 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:46,145 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fontTools\\misc\\loggingTools.py', reloading
+2025-01-03 05:47:46,195 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\__init__.py', reloading
+2025-01-03 05:47:46,226 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\callbacks.py', reloading
+2025-01-03 05:47:46,256 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\compression.py', reloading
+2025-01-03 05:47:46,330 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\core.py', reloading
+2025-01-03 05:47:46,369 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\exceptions.py', reloading
+2025-01-03 05:47:46,402 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\mapping.py', reloading
+2025-01-03 05:47:46,417 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\registry.py', reloading
+2025-01-03 05:47:46,435 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\fsspec\\spec.py', reloading
+2025-01-03 05:47:46,465 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\functorch\\__init__.py', reloading
+2025-01-03 05:47:46,472 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\gast\\__init__.py', reloading
+2025-01-03 05:47:46,480 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\gdown\\__init__.py', reloading
+2025-01-03 05:47:46,492 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\gensim\\__init__.py', reloading
+2025-01-03 05:47:46,510 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\__init__.py', reloading
+2025-01-03 05:47:46,603 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\exc.py', reloading
+2025-01-03 05:47:46,632 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\gitdb\\exc.py', reloading
+2025-01-03 05:47:46,646 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\__init__.py', reloading
+2025-01-03 05:47:46,665 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\base.py', reloading
+2025-01-03 05:47:46,684 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\blob.py', reloading
+2025-01-03 05:47:46,703 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\commit.py', reloading
+2025-01-03 05:47:46,720 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\submodule\\base.py', reloading
+2025-01-03 05:47:46,748 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\submodule\\root.py', reloading
+2025-01-03 05:47:46,760 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\tag.py', reloading
+2025-01-03 05:47:46,779 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\tree.py', reloading
+2025-01-03 05:47:46,787 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\__init__.py', reloading
+2025-01-03 05:47:46,800 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\symbolic.py', reloading
+2025-01-03 05:47:46,813 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\reference.py', reloading
+2025-01-03 05:47:46,834 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\head.py', reloading
+2025-01-03 05:47:46,845 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\tag.py', reloading
+2025-01-03 05:47:46,855 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\remote.py', reloading
+2025-01-03 05:47:46,867 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\refs\\log.py', reloading
+2025-01-03 05:47:46,881 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\diff.py', reloading
+2025-01-03 05:47:46,895 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\db.py', reloading
+2025-01-03 05:47:46,919 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\remote.py', reloading
+2025-01-03 05:47:46,929 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\index\\__init__.py', reloading
+2025-01-03 05:47:46,951 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\index\\base.py', reloading
+2025-01-03 05:47:46,966 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\index\\typ.py', reloading
+2025-01-03 05:47:47,023 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\gitdb\\util.py', reloading
+2025-01-03 05:47:47,037 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\compat.py', reloading
+2025-01-03 05:47:47,053 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\util.py', reloading
+2025-01-03 05:47:47,064 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\git\\objects\\submodule\\__init__.py', reloading
+2025-01-03 05:47:47,277 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:48,384 - WARNING -  * Debugger is active!
+2025-01-03 05:47:48,386 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:48,423 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\imblearn\\__init__.py', reloading
+2025-01-03 05:47:48,444 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\imblearn\\_version.py', reloading
+2025-01-03 05:47:48,474 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\imblearn\\base.py', reloading
+2025-01-03 05:47:48,529 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\importlib_metadata\\__init__.py', reloading
+2025-01-03 05:47:48,555 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\importlib_metadata\\_meta.py', reloading
+2025-01-03 05:47:48,578 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\incremental\\__init__.py', reloading
+2025-01-03 05:47:48,590 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\incremental\\_version.py', reloading
+2025-01-03 05:47:48,618 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\inflection\\__init__.py', reloading
+2025-01-03 05:47:48,663 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\intake\\__init__.py', reloading
+2025-01-03 05:47:48,701 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\intervaltree\\__init__.py', reloading
+2025-01-03 05:47:48,714 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ipdb\\__init__.py', reloading
+2025-01-03 05:47:48,721 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ipykernel\\__init__.py', reloading
+2025-01-03 05:47:48,748 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ipykernel\\connect.py', reloading
+2025-01-03 05:47:48,761 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jupyter_client\\__init__.py', reloading
+2025-01-03 05:47:48,807 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jupyter_client\\connect.py', reloading
+2025-01-03 05:47:48,842 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jupyter_client\\launcher.py', reloading
+2025-01-03 05:47:48,851 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__init__.py', reloading
+2025-01-03 05:47:48,869 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ipywidgets\\__init__.py', reloading
+2025-01-03 05:47:48,881 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\isort\\__init__.py', reloading
+2025-01-03 05:47:48,892 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\isort\\_version.py', reloading
+2025-01-03 05:47:48,928 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\isort\\api.py', reloading
+2025-01-03 05:47:48,963 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\isort\\place.py', reloading
+2025-01-03 05:47:48,990 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\isort\\settings.py', reloading
+2025-01-03 05:47:49,146 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itemadapter\\__init__.py', reloading
+2025-01-03 05:47:49,170 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itemloaders\\__init__.py', reloading
+2025-01-03 05:47:49,180 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\__init__.py', reloading
+2025-01-03 05:47:49,192 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\encoding.py', reloading
+2025-01-03 05:47:49,203 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\exc.py', reloading
+2025-01-03 05:47:49,231 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\serializer.py', reloading
+2025-01-03 05:47:49,251 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\signer.py', reloading
+2025-01-03 05:47:49,263 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\timed.py', reloading
+2025-01-03 05:47:49,275 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\itsdangerous\\url_safe.py', reloading
+2025-01-03 05:47:49,304 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jedi\\__init__.py', reloading
+2025-01-03 05:47:49,346 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jinja2\\bccache.py', reloading
+2025-01-03 05:47:49,376 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jinja2\\exceptions.py', reloading
+2025-01-03 05:47:49,395 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-01-03 05:47:49,560 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:50,669 - WARNING -  * Debugger is active!
+2025-01-03 05:47:50,671 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:50,697 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\lxml\\__init__.py', reloading
+2025-01-03 05:47:50,718 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\lz4\\__init__.py', reloading
+2025-01-03 05:47:50,726 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\markdown_it\\__init__.py', reloading
+2025-01-03 05:47:50,758 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\markdown_it\\main.py', reloading
+2025-01-03 05:47:50,789 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\markupsafe\\__init__.py', reloading
+2025-01-03 05:47:50,814 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\matplotlib_inline\\__init__.py', reloading
+2025-01-03 05:47:50,821 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdit_py_plugins\\__init__.py', reloading
+2025-01-03 05:47:50,836 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\__init__.py', reloading
+2025-01-03 05:47:50,863 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\_decode.py', reloading
+2025-01-03 05:47:50,873 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\_encode.py', reloading
+2025-01-03 05:47:50,884 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\_format.py', reloading
+2025-01-03 05:47:50,907 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\_parse.py', reloading
+2025-01-03 05:47:50,917 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mdurl\\_url.py', reloading
+2025-01-03 05:47:50,964 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\menuinst\\__init__.py', reloading
+2025-01-03 05:47:51,042 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\menuinst\\api.py', reloading
+2025-01-03 05:47:51,400 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\menuinst\\_version.py', reloading
+2025-01-03 05:47:51,640 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\mistune\\__init__.py', reloading
+2025-01-03 05:47:51,835 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:52,972 - WARNING -  * Debugger is active!
+2025-01-03 05:47:52,975 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:53,018 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\sentinel.py', reloading
+2025-01-03 05:47:53,034 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\converter.py', reloading
+2025-01-03 05:47:53,048 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\notebooknode.py', reloading
+2025-01-03 05:47:53,057 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__init__.py', reloading
+2025-01-03 05:47:53,081 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\nbbase.py', reloading
+2025-01-03 05:47:53,146 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\validator.py', reloading
+2025-01-03 05:47:53,200 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nbformat\\json_compat.py', reloading
+2025-01-03 05:47:53,231 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\nltk\\__init__.py', reloading
+2025-01-03 05:47:53,246 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\notebook\\__init__.py', reloading
+2025-01-03 05:47:53,256 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\notebook_shim\\__init__.py', reloading
+2025-01-03 05:47:53,282 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\__init__.py', reloading
+2025-01-03 05:47:53,551 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\errors.py', reloading
+2025-01-03 05:47:53,589 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\__init__.py', reloading
+2025-01-03 05:47:53,609 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\abstract.py', reloading
+2025-01-03 05:47:53,623 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\containers.py', reloading
+2025-01-03 05:47:53,650 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\functions.py', reloading
+2025-01-03 05:47:53,664 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\iterators.py', reloading
+2025-01-03 05:47:53,691 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\misc.py', reloading
+2025-01-03 05:47:53,713 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\npytypes.py', reloading
+2025-01-03 05:47:53,731 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\scalars.py', reloading
+2025-01-03 05:47:53,772 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numba\\core\\types\\function_type.py', reloading
+2025-01-03 05:47:53,797 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numbergen\\__init__.py', reloading
+2025-01-03 05:47:53,815 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numexpr\\__init__.py', reloading
+2025-01-03 05:47:53,977 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\numpy\\_typing\\_extended_precision.py', reloading
+2025-01-03 05:47:54,162 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:55,400 - WARNING -  * Debugger is active!
+2025-01-03 05:47:55,402 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:55,569 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\opt_einsum\\parser.py', reloading
+2025-01-03 05:47:55,596 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\opt_einsum\\path_random.py', reloading
+2025-01-03 05:47:55,613 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\opt_einsum\\paths.py', reloading
+2025-01-03 05:47:55,629 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\opt_einsum\\sharing.py', reloading
+2025-01-03 05:47:55,645 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\overrides\\__init__.py', reloading
+2025-01-03 05:47:55,664 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\overrides\\enforce.py', reloading
+2025-01-03 05:47:55,674 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\overrides\\overrides.py', reloading
+2025-01-03 05:47:55,694 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\packaging\\__init__.py', reloading
+2025-01-03 05:47:55,713 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\__init__.py', reloading
+2025-01-03 05:47:55,937 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\param\\__init__.py', reloading
+2025-01-03 05:47:55,962 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\param\\reactive.py', reloading
+2025-01-03 05:47:55,994 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\config.py', reloading
+2025-01-03 05:47:56,053 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\depends.py', reloading
+2025-01-03 05:47:56,064 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\io\\__init__.py', reloading
+2025-01-03 05:47:56,092 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\io\\cache.py', reloading
+2025-01-03 05:47:56,115 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\io\\notebook.py', reloading
+2025-01-03 05:47:56,153 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\io\\server.py', reloading
+2025-01-03 05:47:56,192 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\io\\state.py', reloading
+2025-01-03 05:47:56,212 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\__init__.py', reloading
+2025-01-03 05:47:56,245 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\accordion.py', reloading
+2025-01-03 05:47:56,280 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\card.py', reloading
+2025-01-03 05:47:56,325 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\base.py', reloading
+2025-01-03 05:47:56,344 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\feed.py', reloading
+2025-01-03 05:47:56,367 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\flex.py', reloading
+2025-01-03 05:47:56,383 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\float.py', reloading
+2025-01-03 05:47:56,396 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\grid.py', reloading
+2025-01-03 05:47:56,419 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\panel\\layout\\gridstack.py', reloading
+2025-01-03 05:47:56,580 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:57,674 - WARNING -  * Debugger is active!
+2025-01-03 05:47:57,676 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:47:57,711 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\platformdirs\\api.py', reloading
+2025-01-03 05:47:57,718 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\platformdirs\\version.py', reloading
+2025-01-03 05:47:57,740 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\plotly\\__init__.py', reloading
+2025-01-03 05:47:57,842 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\plotly\\version.py', reloading
+2025-01-03 05:47:57,862 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pluggy\\__init__.py', reloading
+2025-01-03 05:47:57,875 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pluggy\\_manager.py', reloading
+2025-01-03 05:47:57,897 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pluggy\\_callers.py', reloading
+2025-01-03 05:47:57,920 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pluggy\\_result.py', reloading
+2025-01-03 05:47:57,940 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pluggy\\_hooks.py', reloading
+2025-01-03 05:47:57,949 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ply\\__init__.py', reloading
+2025-01-03 05:47:57,960 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\__init__.py', reloading
+2025-01-03 05:47:57,987 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\exposition.py', reloading
+2025-01-03 05:47:58,027 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\asgi.py', reloading
+2025-01-03 05:47:58,048 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\gc_collector.py', reloading
+2025-01-03 05:47:58,072 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\metrics.py', reloading
+2025-01-03 05:47:58,085 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\metrics_core.py', reloading
+2025-01-03 05:47:58,097 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\platform_collector.py', reloading
+2025-01-03 05:47:58,107 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\process_collector.py', reloading
+2025-01-03 05:47:58,119 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prometheus_client\\registry.py', reloading
+2025-01-03 05:47:58,144 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\__init__.py', reloading
+2025-01-03 05:47:58,226 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\__init__.py', reloading
+2025-01-03 05:47:58,247 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\application\\application.py', reloading
+2025-01-03 05:47:58,336 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\__init__.py', reloading
+2025-01-03 05:47:58,367 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\ansi.py', reloading
+2025-01-03 05:47:58,384 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\formatted_text\\html.py', reloading
+2025-01-03 05:47:58,393 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\__init__.py', reloading
+2025-01-03 05:47:58,446 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\prompt.py', reloading
+2025-01-03 05:47:58,512 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\prompt_toolkit\\shortcuts\\utils.py', reloading
+2025-01-03 05:47:58,571 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\proto\\__init__.py', reloading
+2025-01-03 05:47:58,624 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\proto\\enums.py', reloading
+2025-01-03 05:47:58,860 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:47:59,931 - WARNING -  * Debugger is active!
+2025-01-03 05:47:59,934 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:00,067 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\__init__.py', reloading
+2025-01-03 05:48:00,097 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_encryption.py', reloading
+2025-01-03 05:48:00,158 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_merger.py', reloading
+2025-01-03 05:48:00,187 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_page.py', reloading
+2025-01-03 05:48:00,213 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_reader.py', reloading
+2025-01-03 05:48:00,225 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_version.py', reloading
+2025-01-03 05:48:00,245 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\_writer.py', reloading
+2025-01-03 05:48:00,266 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\pagerange.py', reloading
+2025-01-03 05:48:00,276 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyPDF2\\papersizes.py', reloading
+2025-01-03 05:48:00,304 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pyperclip\\__init__.py', reloading
+2025-01-03 05:48:00,325 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\PyQt5\\__init__.py', reloading
+2025-01-03 05:48:00,345 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pyrect\\__init__.py', reloading
+2025-01-03 05:48:00,362 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pytest\\__init__.py', reloading
+2025-01-03 05:48:00,389 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\__init__.py', reloading
+2025-01-03 05:48:00,398 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\_version.py', reloading
+2025-01-03 05:48:00,408 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\_code\\__init__.py', reloading
+2025-01-03 05:48:00,422 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\_code\\code.py', reloading
+2025-01-03 05:48:00,437 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\assertion\\__init__.py', reloading
+2025-01-03 05:48:00,451 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-01-03 05:48:00,464 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\capture.py', reloading
+2025-01-03 05:48:00,490 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\config\\__init__.py', reloading
+2025-01-03 05:48:00,502 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\config\\exceptions.py', reloading
+2025-01-03 05:48:00,514 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\config\\argparsing.py', reloading
+2025-01-03 05:48:00,531 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+2025-01-03 05:48:00,559 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\fixtures.py', reloading
+2025-01-03 05:48:00,579 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\freeze_support.py', reloading
+2025-01-03 05:48:00,591 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\legacypath.py', reloading
+2025-01-03 05:48:00,615 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\logging.py', reloading
+2025-01-03 05:48:00,632 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\main.py', reloading
+2025-01-03 05:48:00,647 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\mark\\__init__.py', reloading
+2025-01-03 05:48:00,659 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\mark\\structures.py', reloading
+2025-01-03 05:48:00,676 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\monkeypatch.py', reloading
+2025-01-03 05:48:00,690 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\nodes.py', reloading
+2025-01-03 05:48:00,704 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\outcomes.py', reloading
+2025-01-03 05:48:00,721 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\pytester.py', reloading
+2025-01-03 05:48:00,747 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\python.py', reloading
+2025-01-03 05:48:00,764 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\python_api.py', reloading
+2025-01-03 05:48:00,780 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\recwarn.py', reloading
+2025-01-03 05:48:00,804 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\reports.py', reloading
+2025-01-03 05:48:00,819 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\runner.py', reloading
+2025-01-03 05:48:00,832 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\stash.py', reloading
+2025-01-03 05:48:00,844 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\terminal.py', reloading
+2025-01-03 05:48:00,863 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\tmpdir.py', reloading
+2025-01-03 05:48:00,877 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\_pytest\\warning_types.py', reloading
+2025-01-03 05:48:00,885 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pytoolconfig\\__init__.py', reloading
+2025-01-03 05:48:00,952 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\pytoolconfig\\fields.py', reloading
+2025-01-03 05:48:01,099 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:02,185 - WARNING -  * Debugger is active!
+2025-01-03 05:48:02,186 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:02,394 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__init__.py', reloading
+2025-01-03 05:48:02,824 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\s3fs\\__init__.py', reloading
+2025-01-03 05:48:02,956 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\cluster\\__init__.py', reloading
+2025-01-03 05:48:02,985 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\conftest.py', reloading
+2025-01-03 05:48:03,004 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\constants\\__init__.py', reloading
+2025-01-03 05:48:03,035 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\constants\\_codata.py', reloading
+2025-01-03 05:48:03,071 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\constants\\_constants.py', reloading
+2025-01-03 05:48:03,099 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\datasets\\__init__.py', reloading
+2025-01-03 05:48:03,153 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\datasets\\_fetchers.py', reloading
+2025-01-03 05:48:03,172 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\datasets\\_download_all.py', reloading
+2025-01-03 05:48:03,195 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\datasets\\_utils.py', reloading
+2025-01-03 05:48:03,365 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:04,459 - WARNING -  * Debugger is active!
+2025-01-03 05:48:04,461 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:04,499 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_lu.py', reloading
+2025-01-03 05:48:04,517 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_ldl.py', reloading
+2025-01-03 05:48:04,531 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_cholesky.py', reloading
+2025-01-03 05:48:04,557 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_qr.py', reloading
+2025-01-03 05:48:04,582 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_qz.py', reloading
+2025-01-03 05:48:04,601 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_svd.py', reloading
+2025-01-03 05:48:04,612 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_schur.py', reloading
+2025-01-03 05:48:04,640 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_polar.py', reloading
+2025-01-03 05:48:04,665 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_matfuncs.py', reloading
+2025-01-03 05:48:04,684 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\blas.py', reloading
+2025-01-03 05:48:04,702 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\lapack.py', reloading
+2025-01-03 05:48:04,731 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_special_matrices.py', reloading
+2025-01-03 05:48:04,748 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_solvers.py', reloading
+2025-01-03 05:48:04,772 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py', reloading
+2025-01-03 05:48:04,783 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_sketches.py', reloading
+2025-01-03 05:48:04,793 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py', reloading
+2025-01-03 05:48:04,815 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\misc\\__init__.py', reloading
+2025-01-03 05:48:04,834 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\misc\\_common.py', reloading
+2025-01-03 05:48:04,851 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\__init__.py', reloading
+2025-01-03 05:48:04,879 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\_filters.py', reloading
+2025-01-03 05:48:04,893 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\_fourier.py', reloading
+2025-01-03 05:48:04,918 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\_interpolation.py', reloading
+2025-01-03 05:48:04,934 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\_measurements.py', reloading
+2025-01-03 05:48:04,960 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\ndimage\\_morphology.py', reloading
+2025-01-03 05:48:04,991 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\odr\\__init__.py', reloading
+2025-01-03 05:48:05,016 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\odr\\_odrpack.py', reloading
+2025-01-03 05:48:05,028 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\odr\\_models.py', reloading
+2025-01-03 05:48:05,056 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\__init__.py', reloading
+2025-01-03 05:48:05,119 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_optimize.py', reloading
+2025-01-03 05:48:05,149 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_minimize.py', reloading
+2025-01-03 05:48:05,232 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_root.py', reloading
+2025-01-03 05:48:05,263 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_root_scalar.py', reloading
+2025-01-03 05:48:05,294 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_minpack_py.py', reloading
+2025-01-03 05:48:05,316 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_zeros_py.py', reloading
+2025-01-03 05:48:05,335 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\optimize\\_nonlin.py', reloading
+2025-01-03 05:48:05,357 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\signal\\__init__.py', reloading
+2025-01-03 05:48:05,420 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\signal\\_waveforms.py', reloading
+2025-01-03 05:48:05,448 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\signal\\_bsplines.py', reloading
+2025-01-03 05:48:05,472 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\signal\\_filter_design.py', reloading
+2025-01-03 05:48:05,644 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:06,717 - WARNING -  * Debugger is active!
+2025-01-03 05:48:06,719 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:06,948 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+2025-01-03 05:48:06,988 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+2025-01-03 05:48:07,038 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+2025-01-03 05:48:07,064 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+2025-01-03 05:48:07,088 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_multicomp.py', reloading
+2025-01-03 05:48:07,114 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+2025-01-03 05:48:07,140 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
+2025-01-03 05:48:07,246 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+2025-01-03 05:48:07,281 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+2025-01-03 05:48:07,299 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_sensitivity_analysis.py', reloading
+2025-01-03 05:48:07,316 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\stats\\_survival.py', reloading
+2025-01-03 05:48:07,326 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\version.py', reloading
+2025-01-03 05:48:07,346 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\__config__.py', reloading
+2025-01-03 05:48:07,366 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scipy\\__init__.py', reloading
+2025-01-03 05:48:07,385 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\__init__.py', reloading
+2025-01-03 05:48:07,517 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\http\\__init__.py', reloading
+2025-01-03 05:48:07,571 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\http\\request\\form.py', reloading
+2025-01-03 05:48:07,604 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\http\\request\\__init__.py', reloading
+2025-01-03 05:48:07,636 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\item.py', reloading
+2025-01-03 05:48:07,645 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\selector\\__init__.py', reloading
+2025-01-03 05:48:07,661 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\selector\\unified.py', reloading
+2025-01-03 05:48:07,680 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\scrapy\\spiders\\__init__.py', reloading
+2025-01-03 05:48:07,713 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\semver\\__init__.py', reloading
+2025-01-03 05:48:07,908 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:09,007 - WARNING -  * Debugger is active!
+2025-01-03 05:48:09,010 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:09,054 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\engine\\url.py', reloading
+2025-01-03 05:48:09,166 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\inspection.py', reloading
+2025-01-03 05:48:09,177 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\pool\\__init__.py', reloading
+2025-01-03 05:48:09,210 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\pool\\impl.py', reloading
+2025-01-03 05:48:09,241 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\pool\\base.py', reloading
+2025-01-03 05:48:09,268 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\schema.py', reloading
+2025-01-03 05:48:09,283 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\ddl.py', reloading
+2025-01-03 05:48:09,316 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\schema.py', reloading
+2025-01-03 05:48:09,342 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\__init__.py', reloading
+2025-01-03 05:48:09,371 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\_typing.py', reloading
+2025-01-03 05:48:09,394 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\expression.py', reloading
+2025-01-03 05:48:09,420 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\selectable.py', reloading
+2025-01-03 05:48:09,484 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\_selectable_constructors.py', reloading
+2025-01-03 05:48:09,536 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\_elements_constructors.py', reloading
+2025-01-03 05:48:09,569 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+2025-01-03 05:48:09,595 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\cache_key.py', reloading
+2025-01-03 05:48:09,612 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\base.py', reloading
+2025-01-03 05:48:09,630 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\operators.py', reloading
+2025-01-03 05:48:09,647 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\dml.py', reloading
+2025-01-03 05:48:09,671 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\_dml_constructors.py', reloading
+2025-01-03 05:48:09,696 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\functions.py', reloading
+2025-01-03 05:48:09,719 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\lambdas.py', reloading
+2025-01-03 05:48:09,746 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\visitors.py', reloading
+2025-01-03 05:48:09,760 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\types.py', reloading
+2025-01-03 05:48:09,777 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\sqltypes.py', reloading
+2025-01-03 05:48:09,799 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sqlalchemy\\sql\\type_api.py', reloading
+2025-01-03 05:48:09,814 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\stack_data\\__init__.py', reloading
+2025-01-03 05:48:09,837 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\statsmodels\\__init__.py', reloading
+2025-01-03 05:48:09,868 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\statsmodels\\_version.py', reloading
+2025-01-03 05:48:09,900 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\streamlit\\__init__.py', reloading
+2025-01-03 05:48:10,189 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:11,228 - WARNING -  * Debugger is active!
+2025-01-03 05:48:11,230 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:12,220 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\assumptions\\predicates\\calculus.py', reloading
+2025-01-03 05:48:12,405 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:13,480 - WARNING -  * Debugger is active!
+2025-01-03 05:48:13,482 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:13,687 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\geometry\\exceptions.py', reloading
+2025-01-03 05:48:14,366 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\matrices\\sparsetools.py', reloading
+2025-01-03 05:48:14,648 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:15,774 - WARNING -  * Debugger is active!
+2025-01-03 05:48:15,776 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:16,027 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\printing\\smtlib.py', reloading
+2025-01-03 05:48:16,086 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\release.py', reloading
+2025-01-03 05:48:16,344 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\series\\residues.py', reloading
+2025-01-03 05:48:16,583 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\sympy\\series\\series.py', reloading
+2025-01-03 05:48:16,958 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:18,061 - WARNING -  * Debugger is active!
+2025-01-03 05:48:18,063 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:18,704 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\termcolor\\__init__.py', reloading
+2025-01-03 05:48:18,724 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\termcolor\\termcolor.py', reloading
+2025-01-03 05:48:18,745 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\terminado\\__init__.py', reloading
+2025-01-03 05:48:18,765 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tests\\__init__.py', reloading
+2025-01-03 05:48:18,830 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\textdistance\\__init__.py', reloading
+2025-01-03 05:48:18,839 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\text_unidecode\\__init__.py', reloading
+2025-01-03 05:48:18,846 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\thop\\__init__.py', reloading
+2025-01-03 05:48:18,861 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\three_merge\\__init__.py', reloading
+2025-01-03 05:48:18,868 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tifffile\\__init__.py', reloading
+2025-01-03 05:48:18,930 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tifffile\\tifffile.py', reloading
+2025-01-03 05:48:19,045 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tinycss2\\__init__.py', reloading
+2025-01-03 05:48:19,068 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tldextract\\__init__.py', reloading
+2025-01-03 05:48:19,079 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tlz\\__init__.py', reloading
+2025-01-03 05:48:19,244 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:20,649 - WARNING -  * Debugger is active!
+2025-01-03 05:48:20,651 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:20,704 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torchinfo\\enums.py', reloading
+2025-01-03 05:48:20,729 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torchinfo\\model_statistics.py', reloading
+2025-01-03 05:48:20,750 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torchinfo\\torchinfo.py', reloading
+2025-01-03 05:48:20,775 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torchreid\\__init__.py', reloading
+2025-01-03 05:48:20,786 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torchvision\\__init__.py', reloading
+2025-01-03 05:48:20,793 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\torio\\__init__.py', reloading
+2025-01-03 05:48:20,807 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tornado\\__init__.py', reloading
+2025-01-03 05:48:20,816 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\__init__.py', reloading
+2025-01-03 05:48:20,847 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\traitlets.py', reloading
+2025-01-03 05:48:20,876 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\_version.py', reloading
+2025-01-03 05:48:20,890 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\bunch.py', reloading
+2025-01-03 05:48:20,909 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\decorators.py', reloading
+2025-01-03 05:48:20,937 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\importstring.py', reloading
+2025-01-03 05:48:20,946 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\truststore\\__init__.py', reloading
+2025-01-03 05:48:20,967 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\truststore\\_api.py', reloading
+2025-01-03 05:48:20,977 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\twisted\\__init__.py', reloading
+2025-01-03 05:48:20,984 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+2025-01-03 05:48:20,991 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\uc_micro\\__init__.py', reloading
+2025-01-03 05:48:21,001 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\__init__.py', reloading
+2025-01-03 05:48:21,042 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\data\\explorer\\explorer.py', reloading
+2025-01-03 05:48:21,062 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\__init__.py', reloading
+2025-01-03 05:48:21,139 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\nas\\__init__.py', reloading
+2025-01-03 05:48:21,150 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\nas\\model.py', reloading
+2025-01-03 05:48:21,175 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\rtdetr\\__init__.py', reloading
+2025-01-03 05:48:21,185 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\rtdetr\\model.py', reloading
+2025-01-03 05:48:21,194 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\sam\\__init__.py', reloading
+2025-01-03 05:48:21,218 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\sam\\model.py', reloading
+2025-01-03 05:48:21,229 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\yolo\\__init__.py', reloading
+2025-01-03 05:48:21,241 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\yolo\\model.py', reloading
+2025-01-03 05:48:21,250 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\fastsam\\__init__.py', reloading
+2025-01-03 05:48:21,266 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\models\\fastsam\\model.py', reloading
+2025-01-03 05:48:21,294 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\utils\\__init__.py', reloading
+2025-01-03 05:48:21,342 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\utils\\checks.py', reloading
+2025-01-03 05:48:21,391 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\ultralytics\\utils\\downloads.py', reloading
+2025-01-03 05:48:21,440 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\uritemplate\\__init__.py', reloading
+2025-01-03 05:48:21,453 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\uritemplate\\api.py', reloading
+2025-01-03 05:48:21,472 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\uritemplate\\template.py', reloading
+2025-01-03 05:48:21,489 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\__init__.py', reloading
+2025-01-03 05:48:21,551 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\_collections.py', reloading
+2025-01-03 05:48:21,582 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-01-03 05:48:21,609 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+2025-01-03 05:48:21,629 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\poolmanager.py', reloading
+2025-01-03 05:48:21,657 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\urllib3\\response.py', reloading
+2025-01-03 05:48:21,857 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:22,953 - WARNING -  * Debugger is active!
+2025-01-03 05:48:22,955 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:23,399 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\coding\\cftimeindex.py', reloading
+2025-01-03 05:48:23,458 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\coding\\frequencies.py', reloading
+2025-01-03 05:48:23,498 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\conventions.py', reloading
+2025-01-03 05:48:23,545 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\coding\\variables.py', reloading
+2025-01-03 05:48:23,575 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\alignment.py', reloading
+2025-01-03 05:48:23,596 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\combine.py', reloading
+2025-01-03 05:48:23,616 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\common.py', reloading
+2025-01-03 05:48:23,644 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\computation.py', reloading
+2025-01-03 05:48:23,669 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\concat.py', reloading
+2025-01-03 05:48:23,718 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\dataarray.py', reloading
+2025-01-03 05:48:23,844 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\dataset.py', reloading
+2025-01-03 05:48:23,890 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\extensions.py', reloading
+2025-01-03 05:48:23,901 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\merge.py', reloading
+2025-01-03 05:48:23,921 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\options.py', reloading
+2025-01-03 05:48:23,963 - INFO -  * Detected change in 'F:\\Anaconda\\Lib\\site-packages\\xarray\\core\\parallel.py', reloading
+2025-01-03 05:48:24,161 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:25,472 - WARNING -  * Debugger is active!
+2025-01-03 05:48:25,475 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:48:25,600 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\capture_face.py', reloading
+2025-01-03 05:48:25,617 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\models\\train_model.py', reloading
+2025-01-03 05:48:26,639 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:48:27,897 - WARNING -  * Debugger is active!
+2025-01-03 05:48:27,899 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:49:53,970 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 05:49:53,970 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 05:49:53,982 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:49:55,068 - WARNING -  * Debugger is active!
+2025-01-03 05:49:55,070 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:50:39,723 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 05:50:39,723 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 05:50:39,736 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:50:40,988 - WARNING -  * Debugger is active!
+2025-01-03 05:50:40,990 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:50:46,817 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:47,087 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:47,097 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:47,133 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-01-03 05:50:47,263 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:47,307 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:50,037 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:50,074 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:50,083 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:50,106 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:50,149 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:50,277 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:51,480 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:51,542 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:51,548 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:51,567 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:51,604 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:51,677 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,215 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:52,249 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,272 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,289 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,328 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,429 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:52,443 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,480 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,487 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,519 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,558 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,634 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,640 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:52,694 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,700 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,717 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,796 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:52,821 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:58,403 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:50:58,452 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:50:58,472 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:58,496 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:50:58,550 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:50:58,648 - INFO - 127.0.0.1 - - [03/Jan/2025 05:50:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:51:23,304 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:51:23,306 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:51:23,308 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:51:24,247 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:51:25,833 - WARNING -  * Debugger is active!
+2025-01-03 05:51:25,834 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:51:35,668 - WARNING -  * Debugger is active!
+2025-01-03 05:51:35,670 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:51:37,921 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:51:37,993 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,004 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,011 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,085 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,166 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,891 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-03 05:51:38,927 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,932 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,951 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:51:38,997 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-03 05:51:39,047 - INFO - 127.0.0.1 - - [03/Jan/2025 05:51:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-03 05:51:43,633 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:51:43,634 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:51:43,640 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:52:23,977 - WARNING -  * Debugger is active!
+2025-01-03 05:52:23,979 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:53:43,157 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 05:53:43,157 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 05:53:43,166 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:53:44,216 - WARNING -  * Debugger is active!
+2025-01-03 05:53:44,218 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:55:18,205 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:55:18,206 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:55:18,538 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:55:50,594 - WARNING -  * Debugger is active!
+2025-01-03 05:55:50,596 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:56:20,270 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:20] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:20,322 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:20] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:56:20,463 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-03 05:56:22,078 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:22] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:22,114 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:22] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:56:22,718 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:22] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:22,749 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:22] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:56:23,126 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:23,159 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:56:23,310 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:23,364 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:56:23,498 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "GET / HTTP/1.1" 200 -
+2025-01-03 05:56:23,558 - INFO - 127.0.0.1 - - [03/Jan/2025 05:56:23] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:37,528 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:37] "GET / HTTP/1.1" 200 -
+2025-01-03 05:57:37,562 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:37] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:38,245 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:38] "GET / HTTP/1.1" 200 -
+2025-01-03 05:57:38,282 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:38] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:45,566 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:45] "GET / HTTP/1.1" 200 -
+2025-01-03 05:57:45,601 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:45] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:46,133 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:46] "GET / HTTP/1.1" 200 -
+2025-01-03 05:57:46,175 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:46] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:48,039 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:48] "GET / HTTP/1.1" 200 -
+2025-01-03 05:57:48,080 - INFO - 127.0.0.1 - - [03/Jan/2025 05:57:48] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+2025-01-03 05:57:59,339 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-03 05:57:59,339 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-03 05:57:59,348 - INFO -  * Restarting with watchdog (windowsapi)
+2025-01-03 05:58:00,425 - WARNING -  * Debugger is active!
+2025-01-03 05:58:00,427 - INFO -  * Debugger PIN: 139-979-119
+2025-01-03 05:58:13,678 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:58:13,679 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:58:13,680 - INFO -  * Detected change in 'c:\\Users\\ashut\\Desktop\\Behavioral_Biometrics_Authentication_System\\app.py', reloading
+2025-01-03 05:58:14,614 - INFO -  * Restarting with watchdog (windowsapi)
